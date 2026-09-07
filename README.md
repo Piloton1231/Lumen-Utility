@@ -1,5 +1,7 @@
 # Lumen Utility for Windows
 
+![Lumen Utility - Windows 10/11対応](Assets/LumenUtility-readme-banner.png)
+
 Vorssaint の「1つの常駐パネルに日常ツールをまとめる」考え方を Windows 向けに再実装した、非公式・別ブランドの Windows アプリです。
 
 元プロジェクトの商標条件に従い、Vorssaint の名前、ロゴ、アイコン、Bundle ID、署名、公式配布物を思わせるブランド表現は使用していません。暗色カード、縦長パネル、情報密度などの操作感は保ちつつ、Windows 用の外観に調整しています。
